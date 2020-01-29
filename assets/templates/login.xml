@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view name="Login">
+    <!-- Background -->
+    <image src="data/ads/adban_main.tga"/>
+
+    <!-- Overlay -->
+    <image src="data/ui/ui_100.tga"
+           pos="0,474">
+
+        <!-- Logo -->
+        <image src="data/ads/adban_login.tga"
+               pos="16,14"/>
+
+        <!-- Login button -->
+        <button name="Login"
+                src="data/ui/ui_101.tga"
+                pos="466,71"/>
+
+        <!-- Exit button -->
+        <button name="Exit"
+                src="data/ui/ui_207.tga"
+                pos="647,70"/>
+
+        <!-- Username field -->
+        <input name="username"
+               pos="468,24"
+               size="128,14"
+               length="18"
+               selected="true"/>
+
+        <!-- Password field -->
+        <input name="password"
+               pos="468,47"
+               size="128,14"
+               length="18"
+               protected="true"/>
+    </image>
+</view>

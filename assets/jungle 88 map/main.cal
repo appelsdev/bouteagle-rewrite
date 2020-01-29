@@ -1,0 +1,38 @@
+#
+# cal3d model configuration file
+#
+# File created by BoutEagle.
+
+# --- Skeleton ---
+skeleton = assets/jungle 88 map/main.csf
+
+# --- Animations ---
+animation = assets/jungle 88 map/main.caf
+
+# --- Meshes ---
+mesh_file0 = assets/jungle 88 map/0000obj.cmf
+mesh_file1 = assets/jungle 88 map/0000val.cmf
+
+# --- Materials ---
+material_0 = assets/jungle 88 map/00000.crf
+material_1 = assets/jungle 88 map/00001.crf
+material_2 = assets/jungle 88 map/00002.crf
+material_3 = assets/jungle 88 map/00003.crf
+material_4 = assets/jungle 88 map/00004.crf
+material_5 = assets/jungle 88 map/00005.crf
+material_6 = assets/jungle 88 map/00006.crf
+material_7 = assets/jungle 88 map/00007.crf
+material_8 = assets/jungle 88 map/00008.crf
+material_9 = assets/jungle 88 map/00009.crf
+material_10 = assets/jungle 88 map/000010.crf
+material_11 = assets/jungle 88 map/000011.crf
+material_12 = assets/jungle 88 map/000012.crf
+material_13 = assets/jungle 88 map/000013.crf
+material_14 = assets/jungle 88 map/000014.crf
+material_15 = assets/jungle 88 map/000015.crf
+material_16 = assets/jungle 88 map/000016.crf
+material_17 = assets/jungle 88 map/000017.crf
+material_18 = assets/jungle 88 map/000018.crf
+material_19 = assets/jungle 88 map/000019.crf
+material_20 = assets/jungle 88 map/000020.crf
+material_21 = assets/jungle 88 map/000021.crf

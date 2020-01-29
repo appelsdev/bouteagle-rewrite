@@ -1,0 +1,8 @@
+skeleton = assets/ram/main.csf
+animation = assets/ram/main.caf
+mesh_file0 = assets/ram/gr_110_head.cmf
+mesh_file1 = assets/ram/gr_110_body.cmf
+mesh_file2 = assets/ram/gr_110_arm.cmf
+material_0 = assets/ram/gr_110_head0.crf
+material_1 = assets/ram/gr_110_body1.crf
+material_2  assets/ram/gr_110_arm2.crf

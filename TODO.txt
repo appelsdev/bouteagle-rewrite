@@ -1,0 +1,8 @@
+M = Must have, S = Should have, C = Could have
+
+S   Use exception handler in ModelResource.cpp
+C   Cleanup unused textures after switching view.
+
+
+Notes:
+    - Reactivate scene renderer
